@@ -1,1 +1,12 @@
 #wawasan
+1. Information technology (IT) adalah istilah umum untuk teknologi apa pun yang membantu manusia dalam membuat, mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi.
+TI adalah bidang pengelolaan teknologi dan mencakup berbagai bidang yang termasuk tetapi tidak terbatas pada hal-hal seperti proses, perangkat lunak komputer, sistem informasi, perangkat keras komputer, bahasa pemrograman, dan data konstruksi. Singkatnya, apa yang membuat data, informasi atau pengetahuan yang dirasakan dalam format visual apapun, melalui setiap mekanisme distribusi multimedia, dianggap bagian dari TI.
+TI melakukan berbagai fungsi mulai dari meng-instal Aplikasi untuk merancang jaringan komputer dan basis data informasi. Beberapa tugas yang TI lakukan mungkin termasuk manajemen data, jaringan, rekayasa perangkat keras komputer, basis data dan desain perangkat lunak, serta manajemen dan administrasi sistem secara keseluruhan.
+
+3.Software Development adalah salah satu tipe proyek IT yang berfokus pada penciptaan atau pengembangan perangkat lunak. Software Development dapat didetailkan lagi menjadi proses: 1) penciptaan software untuk memenuhi kebutuhan manusia, 2) desain software, 3) pengembangan software aplikasi perusahaan, atau 4) pengembangan platform (Wales, 2012).
+
+4. Agile method merupakan sebuah pendekatan pada manajemen proyek (dalam software development) dengan menggunakan teknik iterasi dan bertahap (sprint) untuk mengahadapi perubahan dalam proses pembuatan sebuah produk. Kolaborasi ini melibatkan tim yang mampu mengorganisir pekerjaan secara mandiri dan juga pemegang kepentingan ataupun pengguna langsung. Pada saat anda mengimplementasikan Agile dalam sebuah proses pengembangan produk, tim yang terlibat harus siap untuk melakukan perencanaan secara adaptif, penyempurnaan berkelanjutan dan merespon perubahan dengan cepat. Dengan kata lain, tidak ada perencanaan tanpa melibatkan respon dari pengguna produk itu sendiri.
+
+5. Scrum adalah salah satu metode rekayasa perangkat lunak dengan menggunakan prinsip-prinsip pendekatan AGILE, yang bertumpu pada kekuatan kolaborasi tim, incremental product dan proses iterasi untuk mewujudkan hasil akhir.
+
+6. Windows XP adalah jajaran sistem operasi berbasis grafis yang dibuat oleh Microsoft untuk digunakan pada komputer pribadi, yang mencakup komputer rumah dan desktop bisnis, laptop, dan pusat media (Media Center). Nama "XP" adalah kependekan dari "Experience".
