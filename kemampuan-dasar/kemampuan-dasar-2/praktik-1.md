@@ -1,6 +1,4 @@
 # kemampuan-dasar-2
-# kemampuan-dasar-2
-
 rizuk@DESKTOP-63JHV4I MINGW64 /e/Git
 $ git clone https://github.com/rizuki96/rhymes.git
 Cloning into 'rhymes'...
