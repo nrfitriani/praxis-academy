@@ -1,0 +1,247 @@
+C:\Users\HP>date
+The current date is: Tue 10/15/2019
+Enter the new date: (mm-dd-yy)
+
+C:\Users\HP>where java
+C:\Program Files\Java\jdk-12.0.2\bin\java.exe
+
+C:\Users\HP>at
+The AT command has been deprecated. Please use schtasks.exe instead.
+
+The request is not supported.
+
+C:\Users\HP>echo
+ECHO is on.
+
+C:\Users\HP>expand
+Microsoft (R) File Expansion Utility
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+No files specified.
+
+C:\Users\HP>fc
+FC: Insufficient number of file specifications
+
+C:\Users\HP>hostname
+LAPTOP-660E9LSI
+
+C:\Users\HP>vol
+ Volume in drive C is Windows
+ Volume Serial Number is 802E-9047
+
+C:\Users\HP>xcopy
+Invalid number of parameters
+0 File(s) copied
+
+C:\Users\HP>ktmutil
+The KTMUTIL utility requires that you have administrative privileges.
+
+C:\Users\HP>klist
+
+Current LogonId is 0:0x23c4a4fc
+
+Cached Tickets: (0)
+
+:\Users\HP>ipconfig
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::85ab:8d34:a0a1:2128%6
+   IPv4 Address. . . . . . . . . . . : 10.4.3.222
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.4.3.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Users\HP>getmac
+
+Physical Address    Transport Name                          
+=================== ==========================================================
+B4-6B-FC-9C-E8-25   \Device\Tcpip_{1EC3FF5A-8FE4-40D8-BBC4-17537F1E1272}
+B4-6B-FC-9C-E8-29   Media disconnected          
+
+C:\Users\HP>gpupdate
+Updating policy...
+
+Computer Policy update has completed successfully.
+User Policy update has completed successfully.
+
+C:\Users\HP>finger
+
+Displays information about a user on a specified system running the
+Finger service. Output varies based on the remote system.
+
+FINGER [-l] [user]@host [...]
+
+  -l        Displays information in long list format.
+  user      Specifies the user you want information about. Omit the user
+            parameter to display information about all users on the
+            specifed host.
+  @host     Specifies the server on the remote system whose users you
+            want information about.
+
+C:\Users\HP>finger
+
+Displays information about a user on a specified system running the
+Finger service. Output varies based on the remote system.
+
+FINGER [-l] [user]@host [...]
+
+  -l        Displays information in long list format.
+  user      Specifies the user you want information about. Omit the user
+            parameter to display information about all users on the
+            specifed host.
+  @host     Specifies the server on the remote system whose users you
+            want information about.
+
+C:\Users\HP>print
+No file to print
+
+C:\Users\HP>makecab
+Cabinet Maker - Lossless Data Compression Tool
+
+MAKECAB [/V[n]] [/D var=value ...] [/L dir] source [destination]
+MAKECAB [/V[n]] [/D var=value ...] /F directive_file [...]
+
+  source         File to compress.
+  destination    File name to give compressed file.  If omitted, the
+                 last character of the source file name is replaced
+                 with an underscore (_) and used as the destination.
+  /F directives  A file with MakeCAB directives (may be repeated). Refer to
+                 Microsoft Cabinet SDK for information on directive_file.
+  /D var=value   Defines variable with specified value.
+  /L dir         Location to place destination (default is current directory).
+  /V[n]          Verbosity level (1..3).
+
+C:\Users\HP>color
+
+C:\Users\HP>color pink
+Sets the default console foreground and background colors.
+
+COLOR [attr]
+
+  attr        Specifies color attribute of console output
+
+Color attributes are specified by TWO hex digits -- the first
+corresponds to the background; the second the foreground.  Each digit
+can be any of the following values:
+
+    0 = Black       8 = Gray
+    1 = Blue        9 = Light Blue
+    2 = Green       A = Light Green
+    3 = Aqua        B = Light Aqua
+    4 = Red         C = Light Red
+    5 = Purple      D = Light Purple
+    6 = Yellow      E = Light Yellow
+    7 = White       F = Bright White
+
+If no argument is given, this command restores the color to what it was
+when CMD.EXE started.  This value either comes from the current console
+window, the /T command line switch or from the DefaultColor registry
+value.
+
+The COLOR command sets ERRORLEVEL to 1 if an attempt is made to execute
+the COLOR command with a foreground and background color that are the
+same.
+
+Example: "COLOR fc" produces light red on bright white
+
+C:\Users\HP>fsutil
+---- Commands Supported ----
+
+8dot3name       8dot3name management
+behavior        Control file system behavior
+dax             Dax volume management
+dirty           Manage volume dirty bit
+file            File specific commands
+fsInfo          File system information
+hardlink        Hardlink management
+objectID        Object ID management
+quota           Quota management
+repair          Self healing management
+reparsePoint    Reparse point management
+resource        Transactional Resource Manager management
+sparse          Sparse file control
+tiering         Storage tiering property management
+transaction     Transaction management
+usn             USN management
+volume          Volume management
+wim             Transparent wim hosting management
+
+C:\Users\HP>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 802E-9047
+
+ Directory of C:\Users\HP
+
+10/09/2019  12:11 AM    <DIR>          .
+10/09/2019  12:11 AM    <DIR>          ..
+10/03/2019  04:45 PM    <DIR>          .android
+08/30/2019  09:02 PM    <DIR>          .AndroidStudio3.5
+08/21/2019  05:51 AM    <DIR>          .BigNox
+04/04/2019  06:22 AM    <DIR>          .FEffectStoreExe
+04/04/2019  07:10 AM    <DIR>          .FNativeWebEngineExe
+10/09/2019  12:11 AM               206 .gitconfig
+09/07/2019  07:33 PM               108 .gitignore
+09/25/2019  06:42 PM    <DIR>          .gradle
+09/07/2019  04:31 PM    <DIR>          .IdeaIC2019.2
+06/28/2019  12:22 PM    <DIR>          .idlerc
+04/14/2019  01:39 PM    <DIR>          .jssc
+02/14/2019  11:46 AM    <DIR>          .musixmatch
+04/04/2019  06:22 AM    <DIR>          .QtWebEngineProcess
+07/23/2019  11:15 PM    <DIR>          .stm32cubemx
+07/23/2019  11:12 PM    <DIR>          .stm32cubeup
+05/05/2019  03:10 AM    <DIR>          .stmcufinder
+01/10/2019  01:16 PM    <DIR>          .thumbnails
+10/12/2019  11:13 PM    <DIR>          3D Objects
+09/05/2019  08:58 PM    <DIR>          AndroidStudioProjects
+05/25/2019  09:47 AM    <DIR>          Autodesk
+09/07/2019  07:33 PM             1,472 build.gradle
+08/14/2019  10:07 PM    <DIR>          Contacts
+08/21/2019  06:24 AM               297 d4ac4633ebd6440fa397b84f1bc94a3c.7z
+10/14/2019  04:30 PM    <DIR>          Desktop
+10/13/2019  12:05 AM    <DIR>          Documents
+10/14/2019  04:44 PM    <DIR>          Downloads
+08/14/2019  10:07 PM    <DIR>          Favorites
+09/07/2019  07:08 PM    <DIR>          gradle
+09/07/2019  07:08 PM             5,960 gradlew
+09/07/2019  07:08 PM             2,942 gradlew.bat
+01/22/2019  05:13 PM    <DIR>          HP
+09/09/2019  06:03 PM    <DIR>          IdeaProjects
+06/08/2019  05:33 PM                66 inittk.ini
+06/08/2019  05:33 PM                41 inst.ini
+08/14/2019  10:07 PM    <DIR>          Links
+10/03/2019  03:15 AM    <DIR>          Music
+06/08/2019  05:33 PM    <DIR>          Nox_share
+06/08/2019  05:33 PM                45 nuuid.ini
+10/10/2019  12:09 AM    <DIR>          OneDrive
+10/15/2019  01:32 PM    <DIR>          Pictures
+01/10/2019  07:24 PM    <DIR>          Roaming
+08/14/2019  10:07 PM    <DIR>          Saved Games
+08/14/2019  10:07 PM    <DIR>          Searches
+09/07/2019  07:33 PM               361 settings.gradle
+09/07/2019  07:33 PM    <DIR>          src
+05/05/2019  03:10 AM    <DIR>          STM32Cube
+05/05/2019  11:52 PM    <DIR>          STMicroelectronics
+06/08/2019  05:33 PM                53 useruid.ini
+09/13/2019  06:53 PM    <DIR>          Videos
+08/21/2019  05:51 AM    <DIR>          vmlogs
+              11 File(s)         11,551 bytes
+              41 Dir(s)   6,331,781,120 bytes free
